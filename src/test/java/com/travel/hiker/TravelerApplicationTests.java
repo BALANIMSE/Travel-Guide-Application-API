@@ -6,7 +6,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 class TravelerApplicationTests {
 
 	void contextLoads() {
-		System.out.println("Test Cases >> ");
+
 	}
 
 }
